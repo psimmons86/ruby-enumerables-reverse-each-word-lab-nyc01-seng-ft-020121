@@ -1,2 +1,4 @@
 
-"Hello there, and how are you?"
+phrase = "Hello there, and how are you?"
+
+def
