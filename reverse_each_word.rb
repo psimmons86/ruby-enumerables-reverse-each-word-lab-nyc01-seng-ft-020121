@@ -1,5 +1,5 @@
 
-string = "My name is..."
-def reverse_each_word(string)
+sef reverse_each_word(string)
   string.reverse.each
-end
+endtring = "My name is..."
+d
