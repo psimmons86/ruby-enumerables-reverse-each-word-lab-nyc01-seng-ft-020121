@@ -1,4 +1,5 @@
 
 phrase = "Hello there, and how are you?"
 
-def
+def reverse_each_word(phrase)
+  
